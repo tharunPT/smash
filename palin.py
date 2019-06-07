@@ -5,4 +5,4 @@ s=int(q)
 if(s!=r):
     print("no")
 else:
-    print("Yes")
+    print("yes")
